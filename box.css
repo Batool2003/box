@@ -1,0 +1,52 @@
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+    color: gold;
+    text-shadow:rgb(0, 0, 0) ;
+    margin: 10px 10px;
+    
+}
+.one{
+    background-color: goldenrod;
+ text-align: center;
+    width: 150px;
+    padding: 50px;
+    border-style: dashed;
+    color: black;
+    font-weight: 10px;
+    
+}
+
+.two{
+    background-color: goldenrod;
+    display: inline-block;
+    width: 150px;
+    padding: 50px; 
+    margin:  0 200px 0 250px;
+    border-style: dashed;
+    color: black;
+    text-align: center; 
+}
+.three{
+    background-color: goldenrod;
+    display: inline-block;
+    width: 200px;
+    padding: 50px; 
+    margin:  0 200px 0 500px;  
+    border-style: dashed;
+    color: black; 
+    text-align: center; 
+
+}
+.four{
+      background-color: goldenrod;
+    display: inline-block;
+    width: 250px;
+    padding: 50px; 
+    margin:  0 200px 0 800px; 
+    border-style: dashed;
+    color: black; 
+    text-align: center; 
+
+}
